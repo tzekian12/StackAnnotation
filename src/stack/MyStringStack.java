@@ -47,4 +47,6 @@ public class MyStringStack {
     public void clear() {
         v = new Vector<String> ();
     }
+    
+    test fail
 }
